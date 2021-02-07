@@ -1,5 +1,5 @@
 {
-  "appId": "gestionD",
+  "appId": "io.ionic.starter",
   "appName": "gestion",
   "bundledWebRuntime": false,
   "npmClient": "npm",
